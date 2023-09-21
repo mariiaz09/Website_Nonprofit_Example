@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" name="final_version" version="1">
+
+<description type="text/html"><![CDATA[Widget Exported from Flash Professional]]></description>
+
+<category name="Flash Animation"/>
+<remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+<icon src="PosterImg_756.png" width="800" height="600"/>
+<require type="other" src="final_version.html"/>
+<require type="javascript" src="final_version.js"/>
+<require type="image" src="images/Asylum_Seekers.png"/>
+<require type="image" src="images/card-img.png"/>
+<require type="image" src="images/Carousel_Placeholder.png"/>
+<require type="image" src="images/europe_map.png"/>
+<require type="image" src="images/final_version_atlas_1.png"/>
+<require type="image" src="images/final_version_atlas_2.png"/>
+<require type="image" src="images/IDP.png"/>
+<require type="image" src="images/ImgResponsive_Placeholder.png"/>
+<require type="image" src="images/MediaObj_Placeholder.png"/>
+<require type="image" src="images/nigeria_map.png"/>
+<require type="image" src="images/Refugees_1.png"/>
+<require type="image" src="images/TeamMember_1.png"/>
+<require type="image" src="images/TeamMember_2.png"/>
+<require type="image" src="images/TeamMember_3.png"/>
+<require type="image" src="images/TeamMember_4.png"/>
+<require type="image" src="images/TeamMember_5.png"/>
+<require type="image" src="images/TeamMember_6.png"/>
+<require type="image" src="images/ukraine_refugee.png"/>
+<require type="folder" src="images"/>
+<content></content>
+
+<properties name="Properties">
+<property name="default-width" defaultValue="800" hidden="true"/>
+<property name="default-height" defaultValue="600" hidden="true"/>
+<property name="resizable" defaultValue="false" hidden="true"/>
+<property name="centering" defaultValue="" hidden="true"/>
+<property name="scaling" defaultValue="" hidden="true"/>
+<property name="html-page" defaultValue="final_version.html" hidden="true"/>
+<property name="target-platform" defaultValue="htmlcanvas" hidden="true"/>
+<property name="created-in" defaultValue="Adobe Animate CC" hidden="true"/>
+</properties>
+
+</widget>
